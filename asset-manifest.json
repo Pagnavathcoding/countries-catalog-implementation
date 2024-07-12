@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/countries-catalog-implementation/static/css/main.acca5662.css",
+    "main.js": "/countries-catalog-implementation/static/js/main.478a39b8.js",
+    "index.html": "/countries-catalog-implementation/index.html",
+    "main.acca5662.css.map": "/countries-catalog-implementation/static/css/main.acca5662.css.map",
+    "main.478a39b8.js.map": "/countries-catalog-implementation/static/js/main.478a39b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acca5662.css",
+    "static/js/main.478a39b8.js"
+  ]
+}
